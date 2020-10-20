@@ -11,7 +11,11 @@
 <p><a href="https://apoorvsaxena.ninja/">Personal website</a></p>
 <p><a href="https://www.linkedin.com/in/apoorv-saxena/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a></p>
 
+
 <!--
+![Apoorv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ap00rvSaxena&count_private=true&show_icons=true&theme=algolia )
+
+
 **Ap00rvSaxena/Ap00rvSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
