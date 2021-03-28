@@ -3,7 +3,7 @@
 
 😄 My name is Apoorv Saxena
 
-<p>💬 I, currently work as a Software Engineer in Oracle which I have joined recently after graduating from The University of Texas at Arlington. I also tend to do multiple personal projects of my own on technologies like Deep Learning, Web Development, Full Stack Development, IoT, and Data Science to learn all these new technologies which I share righ here on this platform. Currently, I am contributing in building a next generation cloud platform for Oracle in Oracle Cloud Infrastructre</p>
+<p>💬 I, currently work as a Software Engineer in Oracle which I have joined recently after graduating from The University of Texas at Arlington. I also tend to do multiple personal projects of my own on technologies like Deep Learning, Web Development, Full Stack Development, IoT, and Data Science to learn all these new technologies which I share right here on this platform. Currently, I am contributing in building a next generation cloud platform for Oracle in Oracle Cloud Infrastructure</p>
 
 <p>⚡ In my free time, I like to do gyming, running, play soccer or CSGO, or just wander aimlessly over the world wide web.</p>
 
