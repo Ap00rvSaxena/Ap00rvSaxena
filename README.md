@@ -14,7 +14,7 @@
 
 
 ### 📫 Get in touch with me:
-<p><a href="https://apoorvsaxena.ninja/">Personal website</a></p>
+<p><a href="https://ap00rvsaxena.github.io">Personal website</a></p>
 <p><a href="https://www.linkedin.com/in/apoorv-saxena/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png"></a></p>
 
 [![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ap00rvSaxena&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
